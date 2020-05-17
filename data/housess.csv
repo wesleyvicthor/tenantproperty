@@ -1,0 +1,28 @@
+ID,Title,Type,Country,City,Average Price,Zimmer,Criteria,Floor,Living Space
+1,Penthouse mit Balkon und extra Küche vollmöbliert and ALL-INCLUSIVE,Sonstige,DE,Berlin,747500,3,"Balkon,Terrasse,Neubau,Einbauküche,Garage,Garten,Personenaufzug",1-5,50
+2,"Kleines Single Appartment in Herzen von F-Hain NUR /Freiberufler/Anwälte/Selbstständige",Dachgeschoss,DE,Berlin,632500,3,"WG,Neubau,Balkon,Garage,Garten,Personenaufzug,Keller,Einbauküche",1-5,50
+3,Praktische 2-Zimmer Wohnung in F-Hain !,Penthouse,DE,Berlin,517500,3,"Balkon,Personenaufzug,WG,Einbauküche,Keller,Garten,Neubau,Terrasse,Garage",1-5,50
+4,Moderne Neubau-Wohnung mit EBK & Balkon,Terrassenwohnung,DE,Hamburg,897000,3,"Garage,Einbauküche,Neubau",2-5,55
+5,Moderne Neubau-Wohnung mit EBK & Balkon,Maisonette,DE,Berlin,839500,2,"Personenaufzug,Garten,Garage,Einbauküche,Neubau,Keller,Balkon,WG",2-5,55
+6,Moderne Neubau-Wohnung mit EBK & Balkon,Loft,DE,Hamburg,931500,2,"Personenaufzug,Einbauküche,Garten,Neubau,Balkon,Garage",2-5,46
+7,Penthouse mit Balkon und extra Küche,Etagenwohnung,DE,Berlin,724500,2,"WG,Personenaufzug,Keller,Einbauküche,Garage,Balkon,Neubau,Terrasse",2-5,46
+8,Penthouse mit Balkon und extra Küche,Hochparterre,DE,Berlin,920000,1,"Garage,Balkon,WG,Keller,Personenaufzug,Garten,Neubau",2-3,46
+9,Ebenerdige zentral gelegene 2-Zimmer mit Terrasse in Berlin,Erdgeschoss,DE,Berlin,621000,1,"Garten,Personenaufzug,Keller,Neubau,Terrasse",2-3,46
+10,Ebenerdige zentral gelegene 2-Zimmer mit Terrasse in Berlin,Souterrain,ES,Barcelona,506000,1,"Neubau,Einbauküche,Terrasse,Balkon,Garage,WG,Keller",2-3,85
+11,Ebenerdige zentral gelegene 2-Zimmer mit Terrasse in Berlin-Friedrichshain,Sonstige,ES,Barcelona,598000,1,"Terrasse,Neubau,WG,Garage,Balkon,Garten",2-3,85
+12,Hochwertiger Neubau mit Wasserblick und einer Gemeinschaftsdachterrasse,Dachgeschoss,ES,Barcelona,644000,4,"Garten,Personenaufzug,Garage,Balkon,Neubau,Terrasse",2-3,85
+16,Living in the heart of Berlin,Loft,NL,Amsterdam,782000,4,"Neubau,Terrasse,Einbauküche,WG",5-5,42
+17,Kleines Single Appartment in Herzen von P-berg,Loft,NL,Amsterdam,747500,3,"Einbauküche,Garage,Balkon,Personenaufzug,WG,Terrasse,Keller,Neubau",5-5,42
+18,Kleines Single Appartment in Herzen von P-berg,Loft,NL,Amsterdam,690000,3,"Personenaufzug,Keller,Garage,Neubau",5-5,75
+19,2-Zimmerwohnung mit Einbauküche und Duschbad,Erdgeschoss,NL,Amsterdam,920000,3,"Einbauküche,Neubau,Garten,Garage,WG,Personenaufzug,Terrasse,Balkon",5-5,75
+20,Geräumige 2-Zimmer-Wohnung,Hochparterre,NL,Rotterdam,977500,3,"Garage,Garten,Balkon,WG,Neubau",5-5,75
+21,Kleines Single Appartment in Herzen von P-berg,Souterrain,NL,Rotterdam,897000,3,"WG,Garten,Terrasse,Balkon",3-6,75
+22,Living in the heart of Berlin,Maisonette,BE,Antwerp,770500,1,"WG,Personenaufzug,Neubau,Garten",3-6,75
+23,umfassend modernisierte Wohnung mit Duschbad und Parkettboden,Sonstige,BE,Bruges,1035000,2,"Balkon,WG,Garage,Personenaufzug",3-6,35
+24,Geräumige 2-Zimmer-Wohnung,Loft,BE,Antwerp,920000,2,"Personenaufzug,Balkon,Terrasse,Einbauküche,WG,Neubau,Keller,Garage,Garten",3-6,35
+25,THE WAVE – Einzigartiges Ambiente mit Water View – Erstbezug!,Souterrain,BE,Bruges,977500,2,"Keller,Neubau,Einbauküche,Garage,WG,Terrasse,Garten",2-2,28
+26,Geräumige 2-Zimmer-Wohnung in Friedrichshain,Etagenwohnung,IE,Dublin,862500,2,"WG,Garage,Terrasse,Garten,Einbauküche",2-2,28
+27,2-Zimmerwohnung mit Einbauküche Duschbad und Balkon,Etagenwohnung,IE,Dublin,897000,5,"Terrasse,Einbauküche,Garten,Neubau,Garage,WG,Personenaufzug",2-2,28
+13,"TRAUM-PENTHOUSE mit Top-Ausstattung, großer Aufdachterrasse & 360°-Panorama-Blick... MITTEN IM KIEZ!",Penthouse,PT,Lisbon,425500,2,"Neubau,WG,Garten,Garage,Keller,Terrasse,Balkon",10-50,33
+14,"TRAUM-PENTHOUSE mit Top-Ausstattung, großer Aufdachterrasse",Penthouse,PT,Lisbon,322000,1,"WG,Garten,Einbauküche,Terrasse,Balkon,Keller",10-50,33
+15,"TRAUM-PENTHOUSE mit Top-Ausstattung, großer Aufdachterrasse",Penthouse,PT,Lisbon,304500,2,"Balkon,Neubau,Garten",10-50,33
